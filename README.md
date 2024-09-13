@@ -1,16 +1,9 @@
-# ably_chatting
+Ably Chatting App 
+You need API Key to Use
+Just go on https://ably.com/chat and create account free
+----------------
+You can chat 2 simulator (Internet Pic)
+![image](https://github.com/user-attachments/assets/02336e5b-9372-45f1-b538-ebbedcdd56b3)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can customize and chatting with your website like me
+![image](https://github.com/user-attachments/assets/4ba26d16-b903-4212-9538-062661dbfae7)
